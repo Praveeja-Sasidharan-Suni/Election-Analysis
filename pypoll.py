@@ -76,7 +76,7 @@ with open(file_to_save, "w") as txt_file:
             cvotes = county_votes[county_name]
             # 3. Calculate the percentage of votes.
             vote_percentage =float(cvotes) / float(total_votes) * 100
-            # 4. Print the county name and percentage of votes.
+            # 4. Print the county name and percentage of votes..
             county_results =(f"{county_name}: {vote_percentage:.1f}% ({cvotes:,})\n")
 
             # Print each  county_votes, its voter count, and percentage to the terminal.
