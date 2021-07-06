@@ -8,8 +8,7 @@ The purpose of this project was to provide an election audit for the Colorado Bo
 3. Get the county who had the highest voter turnout. 
 4. Calculate the total number of votes each candidate received. 
 5. Calculate the percentage of votes each candidate got. 
-6. Determine the winner of the election based on popular vote.
-7.Get the total votes received by each county 
+6. Determine the winner of the election based on popular vote. 
 
 ## Resources
 Data Source: election_results.csv 
