@@ -39,14 +39,15 @@ The analysis of the election shows that:
       * TOTAL VOTES= 369,711
 
 * The county with the highest turnout was Denver with 306,055 votes.
-*  
-1.The election results printed to the Command line:
+  
+### The election results printed to the Command line:
 
 ![commandline_output.png](https://github.com/Praveeja-Sasidharan-Suni/Election-Analysis/blob/main/images/commandline_output.PNG?raw=true)
 
-2.The Election Results saved to a text file.
+### The Election Results saved to a text file.
  
  ![Election_Results_text_file.png](https://github.com/Praveeja-Sasidharan-Suni/Election-Analysis/blob/main/images/Election_Results_text_file.PNG?raw=true)
+
  
 ## Election Audit Summary
 
